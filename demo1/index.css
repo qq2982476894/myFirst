@@ -38,3 +38,19 @@ img{
     top: -70px;
 
 }
+#wrap .btn {
+    border: none;
+    background-color: #fff;
+    box-shadow: 0px 0 20px plum,
+        0px 0 50px plum,
+        0px 0 90px plum,
+        0px 0 190px plum;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 110px;
+    top: 49px;
+    border-radius: 50%;
+    color: powderblue;
+    font-size: 30px;
+}
